@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "ワールズエンド・ダンスホール(ROCKETMAN remix)",
+  "base_artist": "WOWAKA",
+  "createdAt": "2026-02-11T08:22:22.220064Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ワールズエンド・ダンスホール (ROCKETMAN remix)",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/01_ワールズエンド・ダンスホール_(ROCKETMAN_remix)_初音ミク.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ワールズエンド?ダンスホール (rocketman remix)",
+      "artist": "wowaka (現��逃避p) feat. 初�����ク, 巡���ルカ",
+      "has_synced": true,
+      "path": "select/02_ワールズエンド_ダンスホール_(rocketman_remix)_wowaka_(現��逃避p)_feat._初�����ク,_巡���ルカ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ワールズエンド・ダンスホール (ROCKETMAN remix)",
+      "artist": "Victor Entertainment",
+      "has_synced": false,
+      "path": "select/03_ワールズエンド・ダンスホール_(ROCKETMAN_remix)_Victor_Entertainment.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ワールズエンド・ダンスホール (ROCKETMAN remix)",
+      "artist": "wowaka",
+      "has_synced": false,
+      "path": "select/04_ワールズエンド・ダンスホール_(ROCKETMAN_remix)_wowaka.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ワールズエンド・ダンスホール (ROCKETMAN remix)",
+      "artist": "Hatsune Miku",
+      "has_synced": false,
+      "path": "select/05_ワールズエンド・ダンスホール_(ROCKETMAN_remix)_Hatsune_Miku.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ワールズエンド・ダンスホール(ROCKETMAN remix)",
+      "artist": "wowaka",
+      "has_synced": false,
+      "path": "select/pl_01_ワールズエンド・ダンスホール(ROCKETMAN_remix)_wowaka.txt"
+    }
+  ]
+}
